@@ -1,6 +1,7 @@
 # Ad-Click-Prediction-on-internet-accessing-users
 
 * Predicting whether or not a user will click on an ad, based on his/her features. As this is a binary classification problem, a logistic regression model is well suited here.
+* Dataset used is advertising dataset which is of the ".csv" format.
 
 ### Dataset:
 * 'Daily Time Spent on Site': consumer time on site in minutes
