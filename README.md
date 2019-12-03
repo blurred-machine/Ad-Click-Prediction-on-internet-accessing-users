@@ -2,7 +2,7 @@
 
 * Predicting whether or not a user will click on an ad, based on his/her features. As this is a binary classification problem, a logistic regression model is well suited here.
 
-Dataset:
+**Dataset:
 *'Daily Time Spent on Site': consumer time on site in minutes
 *'Age': cutomer age in years
 *'Area Income': Avg. Income of geographical area of consumer
